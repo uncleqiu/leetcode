@@ -24,12 +24,12 @@ class Solution {
         return $rs;
     }
 	
-	/**
+    /**
      * Method two:
      * @param Integer $x
      * @return Integer
      */
-	function reverse2($x) {
+    function reverse2($x) {
         $num = (int)strrev((string)abs($x));
         if ($x >= 0 && $num <= pow(2, 31) - 1) {
             return $num;
