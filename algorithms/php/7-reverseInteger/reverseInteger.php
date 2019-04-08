@@ -13,7 +13,7 @@ class Solution {
         foreach ($x as $k => $v) {
             if ($v == '-') {
                 $flag = $v;
-				continue;
+                continue;
             }
             $str = $v . $str;
         }
