@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [PHP](./algorithms/php/66-plusOne/plusOne.php)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [PHP](./algorithms/php/58-lengthOfLastWord/lengthOfLastWord.php)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [PHP](./algorithms/php/53-maximumSubarray/maximumSubarray.php)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [PHP](./algorithms/php/38-countAndSay/countAndSay.php)|Easy|
