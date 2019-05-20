@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [PHP](./algorithms/php/53-maximumSubarray/maximumSubarray.php)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [PHP](./algorithms/php/38-countAndSay/countAndSay.php)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) | [PHP](./algorithms/php/35-searchInsertPosition/searchInsertPosition.php)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [PHP](./algorithms/php/28-implementStrStr/implementStrStr.php)|Easy|
