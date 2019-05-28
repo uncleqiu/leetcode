@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [PHP](./algorithms/php/326-powerOfThree/powerOfThree.php)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [PHP](./algorithms/php/69-sqrt/sqrt.php)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [PHP](./algorithms/php/67-addBinary/addBinary.php)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [PHP](./algorithms/php/66-plusOne/plusOne.php)|Easy|
