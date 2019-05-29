@@ -20,3 +20,8 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [PHP](./algorithms/php/7-reverseInteger/reverseInteger.php)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [PHP](./algorithms/php/3-longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.php)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [PHP](./algorithms/php/1-twoSum/twoSum.php)  [Python](./algorithms/python/1-twoSum/twoSum.py)|Easy|
+
+### <center>leetcode database</center>
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Mysql](./database/mysql/175-combineTwoTables.sql)|Easy|
