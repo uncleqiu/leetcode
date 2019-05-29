@@ -16,6 +16,7 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [PHP](./algorithms/php/20-validParentheses/validParentheses.php)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [PHP](./algorithms/php/14-longestCommonPrefix/longestCommonPrefix.php)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [PHP](./algorithms/php/13-romantoInteger/romantoInteger.php)|Easy|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [PHP](./algorithms/php/12-integerToRoman/integerToRoman.php)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [PHP](./algorithms/php/9-palindromeNumber/palindromNumber.php)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [PHP](./algorithms/php/7-reverseInteger/reverseInteger.php)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [PHP](./algorithms/php/3-longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.php)|Medium|
