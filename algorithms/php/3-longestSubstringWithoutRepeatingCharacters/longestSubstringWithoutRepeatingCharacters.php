@@ -4,7 +4,7 @@ class Solution {
 
     /**
      * Method one:
-     * run time: 264ms
+     * leetcode run time: 264ms
      */
     function lengthOfLongestSubstring($s) {
         $len = strlen($s);
@@ -26,4 +26,29 @@ class Solution {
         }
         return $maxLen;
     }
+
+    /**
+     * Method two:
+     * leetcode run time: 16ms
+     */
+    function lengthOfLongestSubstring2($s) {
+        $strLen = strlen($s);
+        $temp = [];
+        $start = $len = $maxLen = 0;
+        for ($i = 0; $i < $strLen; $i++) {
+            $curr = $s[$i];
+            if (isset($temp[$curr]) && $temp[$curr] >= $start) {
+                if ($maxLen > $len) {
+                    $len = $maxLen;
+                }
+                $start = $temp[$curr] + 1;
+                $maxLen = $i - $start;
+            }
+            $maxLen++;
+            $temp[$curr] = $i;
+        }
+        return max($maxLen, $len);
+    }
+    
+
 }
