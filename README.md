@@ -19,6 +19,7 @@
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [PHP](./algorithms/php/12-integerToRoman/integerToRoman.php)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [PHP](./algorithms/php/9-palindromeNumber/palindromNumber.php)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [PHP](./algorithms/php/7-reverseInteger/reverseInteger.php)|Easy|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [PHP](./algorithms/php/6-zigZagConversion/zigZagConversion.php)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [PHP](./algorithms/php/3-longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.php)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [PHP](./algorithms/php/1-twoSum/twoSum.php)  [Python](./algorithms/python/1-twoSum/twoSum.py)|Easy|
 
